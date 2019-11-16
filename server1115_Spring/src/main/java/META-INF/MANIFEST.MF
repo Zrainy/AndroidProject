@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Class-Path: spring-context-5.2.0.RELEASE.jar jackson-datatype-jsr310-2
+ .10.0.jar spring-expression-5.2.0.RELEASE.jar json-20160810.jar java-
+ sdk-4.11.3.jar gson-2.8.2.jar spring-boot-starter-tomcat-2.2.0.RELEAS
+ E.jar spring-web-5.2.0.RELEASE.jar slf4j-simple-1.7.28.jar jackson-co
+ re-2.10.0.jar jackson-datatype-jdk8-2.10.0.jar log4j-api-2.12.1.jar s
+ pring-aop-5.2.0.RELEASE.jar spring-boot-starter-validation-2.2.0.RELE
+ ASE.jar spring-boot-autoconfigure-2.2.0.RELEASE.jar spring-boot-start
+ er-json-2.2.0.RELEASE.jar spring-core-5.2.0.RELEASE.jar tomcat-embed-
+ core-9.0.27.jar spring-jcl-5.2.0.RELEASE.jar classmate-1.5.0.jar spri
+ ng-boot-2.2.0.RELEASE.jar slf4j-api-1.7.28.jar jboss-logging-3.4.1.Fi
+ nal.jar snakeyaml-1.25.jar jul-to-slf4j-1.7.28.jar log4j-to-slf4j-2.1
+ 2.1.jar jackson-annotations-2.10.0.jar jakarta.annotation-api-1.3.5.j
+ ar spring-beans-5.2.0.RELEASE.jar hibernate-validator-6.0.17.Final.ja
+ r spring-webmvc-5.2.0.RELEASE.jar logback-core-1.2.3.jar jackson-modu
+ le-parameter-names-2.10.0.jar tomcat-embed-el-9.0.27.jar spring-boot-
+ starter-2.2.0.RELEASE.jar spring-boot-starter-web-2.2.0.RELEASE.jar j
+ ackson-databind-2.10.0.jar logback-classic-1.2.3.jar jakarta.validati
+ on-api-2.0.1.jar spring-boot-starter-logging-2.2.0.RELEASE.jar tomcat
+ -embed-websocket-9.0.27.jar
+Main-Class: hy.android.androidproject.AndroidprojectApplication
+
